@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run 01_Mô_tả_dự_án.py
